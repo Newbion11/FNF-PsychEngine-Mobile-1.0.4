@@ -38,6 +38,11 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Vs. Zombie Tsunami Dev Team'],
+			['Qdegon',			'Qdegon',				'Director/Artist/Charter/Composer',						'https://twitter.com/qdegoner',	'0xFFFFFF'],
+			['Xandvier',			'Xandvier',			'Song Charter/Stage Coder',		'https://x.com/XandvierYT',		'0xFFfce405'],
+			['Dylan',			'Dylan',			'Zombie Icon Artist',		'https://x.com/MineHenn',		'0x0A98FE'],
+			[''],
 			['Mobile Porting Team'],
 			['HomuHomu833',			'homura',             'Head Porter of Psych Engine and Author of linc_luajit-rewriten',                       'https://youtube.com/@HomuHomu833',		'FFE7C0'],
 			['Karim Akra',			'karim',			'Second Porter of Psych Engine',						'https://youtube.com/@Karim0690',		'FFB4F0'],
