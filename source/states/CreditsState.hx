@@ -38,6 +38,14 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Next-out-Robloxia Dev Team'],
+			['Bethany',			'betany',				'Animator,Coder',						'',	''],
+			['L00k0',			'l00k0',			'Chromatic Maker',		'',		'0xFFFFFF'],
+			['Yes',			'yesyes',			'Charter',		'',		'0xFFFFFF'],
+			['Lemon',			'guardian',			'Art',		'',		'0xFFFFFF'],
+			['Axi',			'aximsc_',			'Composer',		'',		'0xFFFFFF'],
+			['Zibidi',			'zib',			'',		'0xFFFFFF'],
+			[''],
 			['Mobile Porting Team'],
 			['HomuHomu833',			'homura',             'Head Porter of Psych Engine and Author of linc_luajit-rewriten',                       'https://youtube.com/@HomuHomu833',		'FFE7C0'],
 			['Karim Akra',			'karim',			'Second Porter of Psych Engine',						'https://youtube.com/@Karim0690',		'FFB4F0'],
